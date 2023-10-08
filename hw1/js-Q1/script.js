@@ -27,7 +27,7 @@ if (isNaN(username)) {
   console.log("این ورودی عدد است");
 }
 
-/* ------------------Q4---------------*/
+/* ------------------Q4-----------------*/
 
 let data1 = +prompt("value1")
 data1 = +prompt("value2");
