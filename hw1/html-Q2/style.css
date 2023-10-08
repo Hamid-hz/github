@@ -31,7 +31,7 @@ h2 {
     
     border: 2px solid black;
     border-block: none;
-    min min-height: 300px;
+    min-height: 300px;
 }
 .middle-section > * {
     float: left;
