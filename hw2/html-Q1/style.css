@@ -1,0 +1,29 @@
+.box1 {
+    width: 450px;
+    height: 200px;
+    background-image: linear-gradient(to bottom, #0052b0, #b340b3);
+  }
+  .box2 {
+  
+  margin-top: 100px;
+    width: 450px;
+    height: 200px;
+    background: linear-gradient( to right,#f50707, #f56e00,#f7df00, #66f507, #0052b0, #520f41, #ff0856); 
+    
+  }
+  .box3 {
+      margin-top: 100px;
+      width: 300px;
+      height: 250px;
+      background: radial-gradient(#ff0509, #fff700, #05ff33);
+  }
+  
+   
+  .box4 {
+      margin-top: 100px;
+      width: 300px;
+      height: 250px;
+      background: conic-gradient(#ff0000, #fff200);
+    }
+    
+  
